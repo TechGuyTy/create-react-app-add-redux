@@ -5,7 +5,7 @@ function stdOutFnDefault(data) {
 }
 
 function stdErrFnDefault(data) {
-  console.log(`sterr: ${data}`);
+  console.log(`stderr: ${data}`);
 }
 
 function closeFnDefault(code) {
